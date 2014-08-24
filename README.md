@@ -5,9 +5,9 @@ This is a customized and pruned eBay mobile app for my daughter only
 
 features
 ========
-1. APP how my daughters's pictures. Logo and flash pages
-2. Customized to show onl some categories interested
-3. All item specific are prefilled. Kids do not like, or does not know how to select and what to select
+1. show my daughters's pictures. Logo and flash pages
+2. customized to show onl some categories interested
+3. all item specific are prefilled. Kids do not like, or does not know how to select and what to select
 4. eBay item data are real, come from eBay rss. 
 5. purchase link to m.ebay.com
 6. it is a workable mobiel app
