@@ -17,3 +17,10 @@ features
 why made this App?
 ==================
 eBay Mobile APP has thousands of categories, each categories may have thousands of item specifics, but I only care about few of them. Most important, I want some of categories invisible for my little daughters because I think it is not proper for them; and also want to prefill some item specifics during search, because some item specifics are never/seldomly changed for us, like shoe size. My finger is fat, I do not want to touch-touch, to select categories/item specifics on my mobile phone.
+
+
+screenshots
+===========
+![alt tag](https://raw.githubusercontent.com/guhuaping/gracesebay/master/screenshots/graceseBay-home.png)
+![alt tag](https://raw.githubusercontent.com/guhuaping/gracesebay/master/screenshots/graceseBay-gracesshoes.png)
+
